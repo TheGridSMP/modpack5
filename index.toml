@@ -2197,7 +2197,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat-discord-bridge.pw.toml"
-hash = "a705e44df9221ee2b2373acc673a5415e98d6518283c98d6568b32eb3ecb751e"
+hash = "99af42222f6b4404dddb27b06f46c6c6beb8686e855e12315fa7962245414cdc"
 metafile = true
 
 [[files]]
@@ -2262,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
-hash = "eba0f2c45801e3fdd1141ba51c043a3553c7d5877d6346e20b58359693f2e21e"
+hash = "b592f1060c39b5684047a0525018dcdff560b0a6de246b6ea3b5d38a954b778e"
 metafile = true
 
 [[files]]

@@ -666,12 +666,12 @@
              * Needs to be an even number
              * Range: 2 - 48
              */
-            "pocketWidth": 24,
+            "pocketWidth": 48,
             /*
              * Needs to be an even number
              * Range: 2 - 48
              */
-            "pocketHeight": 24,
+            "pocketHeight": 48,
             // Range: 0 - 24000
             "baseLifeSpan": 700
         },

@@ -722,7 +722,7 @@ hash = "a5f8de351fa3cae2db73e7cfe44960c238ea0303bf981d3505302cf17f5d6e34"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
-hash = "bfc1860899ada3d33561ae91d25b1a1d67486b5a7cc60d574e16340fb0db867a"
+hash = "bb35f8a4727f0cf39db7c376bb4ca4dcae772dbd278c80b197616f163cb7d015"
 
 [[files]]
 file = "config/more_rpg_classes/effects.json"
@@ -1580,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "37d6e7a35e1db2a38cd456304ad28fcf41a968ea79a7fa2b284c6f2cd58b5c9c"
+hash = "07e1fccd1841a9a0cd1f5e6dacfe24b83b90f9ce148fd390e666c28c82c755b5"
 metafile = true
 
 [[files]]
@@ -1800,7 +1800,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+hash = "b513d087ba54c55be452d8ddc3305def54ca437f48f8ff1b28f4853e56404469"
 metafile = true
 
 [[files]]

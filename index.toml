@@ -201,6 +201,10 @@ file = "config/betterfortresses/fabric-1_20/itemframes.json"
 hash = "8b6ae7d3097a125cb821417e0c0ca4abdd7d884fbb7304af9d7c676b3c7e774c"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "9ba13fd7e320baea995009a21caaec39c04a27cbba36bb6dace1afb4972a3d99"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "10e6bb5376f954ab7c87f7618e643c6bc08898494120f305aed295ed36f54eee"
 

@@ -1472,22 +1472,22 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "3f15fb2df4db2178eb1c112a0d1a9d807600bf9be2b4049b5eda8e58427f9389"
+hash = "0d7166d7b95a9311ca0e4fea8ba4440da2a3364d35fce71a6b5a54b6a074f672"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
-hash = "679039f42be593111e2e9c0b7a83f68a9901f57c93b7d4b2d671810cabefcb85"
+hash = "7e19ae244ed771dd6950b5157489e9fdbc63b3f57c9ccbc61e66fc1d5f060255"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
-hash = "f72df43d1423803a7eaabe51bcab379074d75682d717ceb3e6d6c063869a564e"
+hash = "dc4fcad6a48bbd2cdf48171c01cb2b9f8bae1a23d8f8ddcb36e2bd4c598ee248"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
+hash = "a3a5120e8cd41a3ac7d2283714525c9c67b93a8718583c90b604770b2b379059"
 metafile = true
 
 [[files]]
@@ -2599,3 +2599,7 @@ metafile = true
 file = "resourcepacks/simple-create-radios.pw.toml"
 hash = "68e8ad1650417991011a69322816e87578a345c24819a677b98d9094ee9a7b40"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "f6ad0348c36206ba00a0b00d5eb933d1eaadcc5491541013a0491684b7ac562a"

@@ -185,6 +185,30 @@ file = "config/betterfortresses/fabric-1_20/itemframes.json"
 hash = "8b6ae7d3097a125cb821417e0c0ca4abdd7d884fbb7304af9d7c676b3c7e774c"
 
 [[files]]
+file = "config/betternether/biomes.json"
+hash = "521a6dfe4df46a64e0d7c81c937c7583706bd69a64dcc57364ee592a38d08502"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "d5753557e4c0c3a46e0db647cde26306bf469833d8617ecd9142b165988050ea"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "8e5d0ee4483e5669a0be9e2cf844718a8773c2044762e96179596d10c949f20d"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "9ba13fd7e320baea995009a21caaec39c04a27cbba36bb6dace1afb4972a3d99"
 

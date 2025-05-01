@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
+hash = "903c493222fef5ecde127168b0c88e43dbb7df9c5e5cae4d2297de22c2323462"
 metafile = true
 
 [[files]]
@@ -1735,7 +1735,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "d450e9611be7752da02162620555ea394744dd3d3ff9d637780e7762a4d68b51"
+hash = "1e4336614c173ee2b189c86a93e49a98cf241b80b34733bac37d1bd26ae2b4f5"
 metafile = true
 
 [[files]]
@@ -2110,7 +2110,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "d7f20eaa93687d913a5a378a51964b34a77374f0b3961514b9f8715e9fe120bf"
+hash = "7eae70ce9d8985f5253b576c74c6f1c341cf2e3292df26a47e47801df5d6e687"
 metafile = true
 
 [[files]]
@@ -2255,7 +2255,7 @@ metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
-hash = "d384750a721077f16a9cb8d8ea59c52383005abce5c641569520a02b05d9f4e4"
+hash = "14e773c3e775c555d1ad0e34df0f895a138fc814557a0a00f3a487dba16608ed"
 metafile = true
 
 [[files]]

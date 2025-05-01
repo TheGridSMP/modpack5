@@ -1,0 +1,13 @@
+name = "Jade's Hit Effects"
+filename = "hiteffects-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QkuvZ0z8/versions/AXOv7Uc5/hiteffects-1.0.jar"
+hash-format = "sha512"
+hash = "f9fa69eabb8547686fa954ab3db8f76e4d6ebf96128076ef225c14ab019fe4f4317064cf1212491ddb110845673537a8bb8cb9a30c9b34e0835e04b96b2f5c4f"
+
+[update]
+[update.modrinth]
+mod-id = "QkuvZ0z8"
+version = "AXOv7Uc5"

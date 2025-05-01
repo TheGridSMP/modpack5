@@ -1,0 +1,13 @@
+name = "Level Z - Rogues and Warriors"
+filename = "roguez_and_warriorz-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHZsGwH7/versions/QrTw6bng/roguez_and_warriorz-1.2.jar"
+hash-format = "sha512"
+hash = "35e73b3f94b6ee49afaccec4ec78516cf0f52421bc70b2a9d0d63062114c52a25b19546a897afadcad2b3f035ba92fa8df3b7272e9476f51ff70ab1306e1c0a8"
+
+[update]
+[update.modrinth]
+mod-id = "nHZsGwH7"
+version = "QrTw6bng"

@@ -1,0 +1,13 @@
+name = "Level Z - Better Nether"
+filename = "better_netherz-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7MGE9e7t/versions/pesMh5D5/better_netherz-1.0.jar"
+hash-format = "sha512"
+hash = "51ea375efc115e25c3fa9a637eb6febe89c3566850f7ae3b9e555ebe10c4ecbb1563c2c8a22a3d3990bc0324df03bddf6a48f123e8fb8639380968bb75974cd2"
+
+[update]
+[update.modrinth]
+mod-id = "7MGE9e7t"
+version = "pesMh5D5"

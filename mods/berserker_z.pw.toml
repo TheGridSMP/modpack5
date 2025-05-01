@@ -1,0 +1,13 @@
+name = "Level Z - Berserker"
+filename = "berserkerz-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kv8u1sJc/versions/GrEWdV3j/berserkerz-1.0.jar"
+hash-format = "sha512"
+hash = "ca2988d0768ea371586adae55f0f138cba517193ad988ff768aaf8458764737f81e5f54fb2cba771ebfc05de623197b9a6e27694f082cd3ba90503a974b4c1f8"
+
+[update]
+[update.modrinth]
+mod-id = "kv8u1sJc"
+version = "GrEWdV3j"

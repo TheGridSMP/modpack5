@@ -1,0 +1,13 @@
+name = "Zero Times Infinity"
+filename = "zero-times-infinity-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ihslanqc/versions/KbjWWECN/zero-times-infinity-1.0.0.jar"
+hash-format = "sha512"
+hash = "a1d37ce6c324c44164820c01fc58e97ba96b94b6948a9df8d045df3d3c630143a78edb2fc42696ecf84d0cb4d8fa67aaba4692cb993871c80bcf2391acac8f14"
+
+[update]
+[update.modrinth]
+mod-id = "Ihslanqc"
+version = "KbjWWECN"

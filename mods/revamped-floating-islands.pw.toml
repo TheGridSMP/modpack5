@@ -1,0 +1,13 @@
+name = "Revamped Floating Islands"
+filename = "revamped-floating-islands-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cui7stHA/versions/sHGkSG4j/revamped-floating-islands-1.1.3.jar"
+hash-format = "sha512"
+hash = "21d0f885b72e7666c75bc78b43bde07122bf6d3ea36f2004c61dc559f7926b194e2115006ce85a45269d0242354dde752c36681ea3d9e78b72220679d82d2883"
+
+[update]
+[update.modrinth]
+mod-id = "Cui7stHA"
+version = "sHGkSG4j"

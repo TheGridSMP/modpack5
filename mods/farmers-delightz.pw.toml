@@ -1,0 +1,13 @@
+name = "Level Z - Farmer's Delight"
+filename = "farmerz_delightz-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OIfTXyD3/versions/NY2uwvJl/farmerz_delightz-1.1.jar"
+hash-format = "sha512"
+hash = "ea3a4e779f4f9bd82cc0867526131ad65d30e203fe88a924417aa56207c596f8b8f41281bd5348765b086038ec5342ff5412106ede2f880b9dc217bb1e2dac38"
+
+[update]
+[update.modrinth]
+mod-id = "OIfTXyD3"
+version = "NY2uwvJl"

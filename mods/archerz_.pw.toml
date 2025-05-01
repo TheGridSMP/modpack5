@@ -1,0 +1,13 @@
+name = "Level Z - Archers"
+filename = "archerz-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ToBk71Zw/versions/xI7lETkp/archerz-1.2.jar"
+hash-format = "sha512"
+hash = "64b1fbbfdcd4286ea31f5207ba8c0687f358912635e505d6bb22cb363917a29d0364640ff006a7df71f784d4ae211823c1ae011abfc65bcbe11baf0fb9676173"
+
+[update]
+[update.modrinth]
+mod-id = "ToBk71Zw"
+version = "xI7lETkp"

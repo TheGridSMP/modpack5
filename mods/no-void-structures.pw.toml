@@ -1,0 +1,13 @@
+name = "No Void Structures"
+filename = "no_void_structures-fabric-mc1.20_v1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWMeHtdv/versions/l3k7Go22/no_void_structures-fabric-mc1.20_v1.0.1.jar"
+hash-format = "sha512"
+hash = "0f93d8c0c58e01b527c451cdc4e41e8be80d8bb109c545340b59cfe6de55c01fbc7a426684194be6266001f166aa1d6d34ec06ab4264e353a5bf3ff32c9b08e0"
+
+[update]
+[update.modrinth]
+mod-id = "iWMeHtdv"
+version = "l3k7Go22"

@@ -2346,6 +2346,11 @@ hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "59bdc52707f486b9fe875b1896490afd643f2c7931063218272071037c085f74"
+metafile = true
+
+[[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
 hash = "c840434fded44da4dfb3ae39ce01f485ef496334f492f4b94ca5ac591a4aa804"
 metafile = true

@@ -1378,6 +1378,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "6d227a660261be3af65212f8ac0c5551605f1cad3d7bb2caed017418a6c077c2"
 metafile = true
@@ -2175,6 +2180,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "ed7fc2e1fabeb5d3abe356a1a5f12c7ba3c846e14721ee6368f70d9067ce9936"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]

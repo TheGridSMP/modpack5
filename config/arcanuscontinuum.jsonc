@@ -804,7 +804,7 @@
             "baseEffectDuration": 1200
         },
         "manaWingsEffectProperties": {
-            "enabled": false,
+            "enabled": true,
             // Valid Values: NONE, VERY_LIGHT, LIGHT, MEDIUM, HEAVY, VERY_HEAVY
             "weight": "NONE",
             // Range: 0.0 - 200.0

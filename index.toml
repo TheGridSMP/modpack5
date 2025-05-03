@@ -58,7 +58,7 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/arcanuscontinuum.jsonc"
-hash = "e73e08320c1ab2f19b480eb78f466a06aebae5f132286d39dce571af15438afc"
+hash = "ee7c3f513736888214685636585bd693e7c4db5f70583b2f7d8d3e5126619789"
 
 [[files]]
 file = "config/archers/items_v2.json"

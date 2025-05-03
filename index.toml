@@ -1608,11 +1608,6 @@ hash = "723add2251d2ebfd6eeb515c634abe0436e7c206b1253181e04e52298b486490"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
@@ -2065,16 +2060,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
-metafile = true
-
-[[files]]
-file = "mods/porting_lib.pw.toml"
-hash = "dab6a10080d3eac8fc975616ca9745e9b66391d7bec03766e630da247b6d4293"
 metafile = true
 
 [[files]]

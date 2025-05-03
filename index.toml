@@ -1706,6 +1706,11 @@ hash = "325dabaad0c39bce62f37899ecafa82c39112662bd36e9ca94868815c4b149e9"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
 file = "mods/icterine.pw.toml"
 hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
 metafile = true
@@ -1833,6 +1838,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
 
 [[files]]
@@ -2093,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
 metafile = true
 
 [[files]]
@@ -2574,6 +2589,11 @@ hash = "cf601f63dd77ed8a1d534670ae044375f7dbbf75d25e3ea67006d2cbc2e044c5"
 [[files]]
 file = "resourcepacks/client/pack.png"
 hash = "70df506b45df6ac23b70edd97d849882aa2ca28e8bdf81a370a3f9d3a7485773"
+
+[[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
+metafile = true
 
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"

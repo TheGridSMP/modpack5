@@ -1,0 +1,187 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&6w&eww.domain.com'
+  - '&ew&6w&ew.domain.com'
+  - '&eww&6w&e.domain.com'
+  - '&ewww&6.&edomain.com'
+  - '&ewww.&6d&eomain.com'
+  - '&ewww.d&6o&emain.com'
+  - '&ewww.do&6m&eain.com'
+  - '&ewww.dom&6a&ein.com'
+  - '&ewww.doma&6i&en.com'
+  - '&ewww.domai&6n&e.com'
+  - '&ewww.domain&6.&ecom'
+  - '&ewww.domain.&6c&eom'
+  - '&ewww.domain.c&6o&em'
+  - '&ewww.domain.co&6m'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&b%time%'
+    - '&b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
+thegridsmp:
+  interval: 100
+  texts:
+  - "#0df1e2∙ #00ffe0| #0df1e2T#1ae3e3h#27d5e5e #34c6e7G#41b8e9r#4eaaeai#5b9cecd #688eeeS#7680f0M#8371f1P #9063f3|#9d55f5∙"
+  - "#1ae3e3∙ #0df1e2| #00ffe0T#0df1e2h#1ae3e3e #27d5e5G#34c6e7r#41b8e9i#4eaaead #5b9cecS#688eeeM#7680f0P #8371f1|#9063f3∙"
+  - "#27d5e5∙ #1ae3e3| #0df1e2T#00ffe0h#0df1e2e #1ae3e3G#27d5e5r#34c6e7i#41b8e9d #4eaaeaS#5b9cecM#688eeeP #7680f0|#8371f1∙"
+  - "#34c6e7∙ #27d5e5| #1ae3e3T#0df1e2h#00ffe0e #0df1e2G#1ae3e3r#27d5e5i#34c6e7d #41b8e9S#4eaaeaM#5b9cecP #688eee|#7680f0∙"
+  - "#41b8e9∙ #34c6e7| #27d5e5T#1ae3e3h#0df1e2e #00ffe0G#0df1e2r#1ae3e3i#27d5e5d #34c6e7S#41b8e9M#4eaaeaP #5b9cec|#688eee∙"
+  - "#4eaaea∙ #41b8e9| #34c6e7T#27d5e5h#1ae3e3e #0df1e2G#00ffe0r#0df1e2i#1ae3e3d #27d5e5S#34c6e7M#41b8e9P #4eaaea|#5b9cec∙"
+  - "#5b9cec∙ #4eaaea| #41b8e9T#34c6e7h#27d5e5e #1ae3e3G#0df1e2r#00ffe0i#0df1e2d #1ae3e3S#27d5e5M#34c6e7P #41b8e9|#4eaaea∙"
+  - "#688eee∙ #5b9cec| #4eaaeaT#41b8e9h#34c6e7e #27d5e5G#1ae3e3r#0df1e2i#00ffe0d #0df1e2S#1ae3e3M#27d5e5P #34c6e7|#41b8e9∙"
+  - "#7680f0∙ #688eee| #5b9cecT#4eaaeah#41b8e9e #34c6e7G#27d5e5r#1ae3e3i#0df1e2d #00ffe0S#0df1e2M#1ae3e3P #27d5e5|#34c6e7∙"
+  - "#8371f1∙ #7680f0| #688eeeT#5b9cech#4eaaeae #41b8e9G#34c6e7r#27d5e5i#1ae3e3d #0df1e2S#00ffe0M#0df1e2P #1ae3e3|#27d5e5∙"
+  - "#9063f3∙ #8371f1| #7680f0T#688eeeh#5b9cece #4eaaeaG#41b8e9r#34c6e7i#27d5e5d #1ae3e3S#0df1e2M#00ffe0P #0df1e2|#1ae3e3∙"
+  - "#9d55f5∙ #9063f3| #8371f1T#7680f0h#688eeee #5b9cecG#4eaaear#41b8e9i#34c6e7d #27d5e5S#1ae3e3M#0df1e2P #00ffe0|#0df1e2∙"
+  - "#aa47f6∙ #9d55f5| #9063f3T#8371f1h#7680f0e #688eeeG#5b9cecr#4eaaeai#41b8e9d #34c6e7S#27d5e5M#1ae3e3P #0df1e2|#00ffe0∙"
+  - "#b739f8∙ #aa47f6| #9d55f5T#9063f3h#8371f1e #7680f0G#688eeer#5b9ceci#4eaaead #41b8e9S#34c6e7M#27d5e5P #1ae3e3|#0df1e2∙"
+  - "#c42bfa∙ #b739f8| #aa47f6T#9d55f5h#9063f3e #8371f1G#7680f0r#688eeei#5b9cecd #4eaaeaS#41b8e9M#34c6e7P #27d5e5|#1ae3e3∙"
+  - "#d11cfc∙ #c42bfa| #b739f8T#aa47f6h#9d55f5e #9063f3G#8371f1r#7680f0i#688eeed #5b9cecS#4eaaeaM#41b8e9P #34c6e7|#27d5e5∙"
+  - "#de0efd∙ #d11cfc| #c42bfaT#b739f8h#aa47f6e #9d55f5G#9063f3r#8371f1i#7680f0d #688eeeS#5b9cecM#4eaaeaP #41b8e9|#34c6e7∙"
+  - "#eb00ff∙ #de0efd| #d11cfcT#c42bfah#b739f8e #aa47f6G#9d55f5r#9063f3i#8371f1d #7680f0S#688eeeM#5b9cecP #4eaaea|#41b8e9∙"
+  - "#de0efd∙ #eb00ff| #de0efdT#d11cfch#c42bfae #b739f8G#aa47f6r#9d55f5i#9063f3d #8371f1S#7680f0M#688eeeP #5b9cec|#4eaaea∙"
+  - "#d11cfc∙ #de0efd| #eb00ffT#de0efdh#d11cfce #c42bfaG#b739f8r#aa47f6i#9d55f5d #9063f3S#8371f1M#7680f0P #688eee|#5b9cec∙"
+  - "#c42bfa∙ #d11cfc| #de0efdT#eb00ffh#de0efde #d11cfcG#c42bfar#b739f8i#aa47f6d #9d55f5S#9063f3M#8371f1P #7680f0|#688eee∙"
+  - "#b739f8∙ #c42bfa| #d11cfcT#de0efdh#eb00ffe #de0efdG#d11cfcr#c42bfai#b739f8d #aa47f6S#9d55f5M#9063f3P #8371f1|#7680f0∙"
+  - "#aa47f6∙ #b739f8| #c42bfaT#d11cfch#de0efde #eb00ffG#de0efdr#d11cfci#c42bfad #b739f8S#aa47f6M#9d55f5P #9063f3|#8371f1∙"
+  - "#9d55f5∙ #aa47f6| #b739f8T#c42bfah#d11cfce #de0efdG#eb00ffr#de0efdi#d11cfcd #c42bfaS#b739f8M#aa47f6P #9d55f5|#9063f3∙"
+  - "#9063f3∙ #9d55f5| #aa47f6T#b739f8h#c42bfae #d11cfcG#de0efdr#eb00ffi#de0efdd #d11cfcS#c42bfaM#b739f8P #aa47f6|#9d55f5∙"
+  - "#8371f1∙ #9063f3| #9d55f5T#aa47f6h#b739f8e #c42bfaG#d11cfcr#de0efdi#eb00ffd #de0efdS#d11cfcM#c42bfaP #b739f8|#aa47f6∙"
+  - "#7680f0∙ #8371f1| #9063f3T#9d55f5h#aa47f6e #b739f8G#c42bfar#d11cfci#de0efdd #eb00ffS#de0efdM#d11cfcP #c42bfa|#b739f8∙"
+  - "#688eee∙ #7680f0| #8371f1T#9063f3h#9d55f5e #aa47f6G#b739f8r#c42bfai#d11cfcd #de0efdS#eb00ffM#de0efdP #d11cfc|#c42bfa∙"
+  - "#5b9cec∙ #688eee| #7680f0T#8371f1h#9063f3e #9d55f5G#aa47f6r#b739f8i#c42bfad #d11cfcS#de0efdM#eb00ffP #de0efd|#d11cfc∙"
+  - "#4eaaea∙ #5b9cec| #688eeeT#7680f0h#8371f1e #9063f3G#9d55f5r#aa47f6i#b739f8d #c42bfaS#d11cfcM#de0efdP #eb00ff|#de0efd∙"
+  - "#41b8e9∙ #4eaaea| #5b9cecT#688eeeh#7680f0e #8371f1G#9063f3r#9d55f5i#aa47f6d #b739f8S#c42bfaM#d11cfcP #de0efd|#eb00ff∙"
+  - "#34c6e7∙ #41b8e9| #4eaaeaT#5b9cech#688eeee #7680f0G#8371f1r#9063f3i#9d55f5d #aa47f6S#b739f8M#c42bfaP #d11cfc|#de0efd∙"
+  - "#27d5e5∙ #34c6e7| #41b8e9T#4eaaeah#5b9cece #688eeeG#7680f0r#8371f1i#9063f3d #9d55f5S#aa47f6M#b739f8P #c42bfa|#d11cfc∙"
+  - "#1ae3e3∙ #27d5e5| #34c6e7T#41b8e9h#4eaaeae #5b9cecG#688eeer#7680f0i#8371f1d #9063f3S#9d55f5M#aa47f6P #b739f8|#c42bfa∙"
+  - "#0df1e2∙ #1ae3e3| #27d5e5T#34c6e7h#41b8e9e #4eaaeaG#5b9cecr#688eeei#7680f0d #8371f1S#9063f3M#9d55f5P #aa47f6|#b739f8∙"
+  - "#00ffe0∙ #0df1e2| #1ae3e3T#27d5e5h#34c6e7e #41b8e9G#4eaaear#5b9ceci#688eeed #7680f0S#8371f1M#9063f3P #9d55f5|#aa47f6∙"
+
+bottomtext:
+  change-interval: 250
+  texts:
+  - "#515151™ #5454542#5151510#4e4e4e2#4b4b4b1 #484848<51> #454545C#424242o#3f3f3fl#3c3c3co#383838r#353535i#323232z#2f2f2fe#2c2c2cd"
+  - "#4e4e4e™ #5151512#5454540#5151512#4e4e4e1 #4b4b4b<51> #484848C#454545o#424242l#3f3f3fo#3c3c3cr#383838i#353535z#323232e#2f2f2fd"
+  - "#4b4b4b™ #4e4e4e2#5151510#5454542#5151511 #4e4e4e<51> #4b4b4bC#484848o#454545l#424242o#3f3f3fr#3c3c3ci#383838z#353535e#323232d"
+  - "#484848™ #4b4b4b2#4e4e4e0#5151512#5454541 #515151<51> #4e4e4eC#4b4b4bo#484848l#454545o#424242r#3f3f3fi#3c3c3cz#383838e#353535d"
+  - "#454545™ #4848482#4b4b4b0#4e4e4e2#5151511 #545454<51> #515151C#4e4e4eo#4b4b4bl#484848o#454545r#424242i#3f3f3fz#3c3c3ce#383838d"
+  - "#424242™ #4545452#4848480#4b4b4b2#4e4e4e1 #515151<51> #545454C#515151o#4e4e4el#4b4b4bo#484848r#454545i#424242z#3f3f3fe#3c3c3cd"
+  - "#3f3f3f™ #4242422#4545450#4848482#4b4b4b1 #4e4e4e<51> #515151C#545454o#515151l#4e4e4eo#4b4b4br#484848i#454545z#424242e#3f3f3fd"
+  - "#3c3c3c™ #3f3f3f2#4242420#4545452#4848481 #4b4b4b<51> #4e4e4eC#515151o#545454l#515151o#4e4e4er#4b4b4bi#484848z#454545e#424242d"
+  - "#383838™ #3c3c3c2#3f3f3f0#4242422#4545451 #484848<51> #4b4b4bC#4e4e4eo#515151l#545454o#515151r#4e4e4ei#4b4b4bz#484848e#454545d"
+  - "#353535™ #3838382#3c3c3c0#3f3f3f2#4242421 #454545<51> #484848C#4b4b4bo#4e4e4el#515151o#545454r#515151i#4e4e4ez#4b4b4be#484848d"
+  - "#323232™ #3535352#3838380#3c3c3c2#3f3f3f1 #424242<51> #454545C#484848o#4b4b4bl#4e4e4eo#515151r#545454i#515151z#4e4e4ee#4b4b4bd"
+  - "#2f2f2f™ #3232322#3535350#3838382#3c3c3c1 #3f3f3f<51> #424242C#454545o#484848l#4b4b4bo#4e4e4er#515151i#545454z#515151e#4e4e4ed"
+  - "#2c2c2c™ #2f2f2f2#3232320#3535352#3838381 #3c3c3c<51> #3f3f3fC#424242o#454545l#484848o#4b4b4br#4e4e4ei#515151z#545454e#515151d"
+  - "#292929™ #2c2c2c2#2f2f2f0#3232322#3535351 #383838<51> #3c3c3cC#3f3f3fo#424242l#454545o#484848r#4b4b4bi#4e4e4ez#515151e#545454d"
+  - "#262626™ #2929292#2c2c2c0#2f2f2f2#3232321 #353535<51> #383838C#3c3c3co#3f3f3fl#424242o#454545r#484848i#4b4b4bz#4e4e4ee#515151d"
+  - "#232323™ #2626262#2929290#2c2c2c2#2f2f2f1 #323232<51> #353535C#383838o#3c3c3cl#3f3f3fo#424242r#454545i#484848z#4b4b4be#4e4e4ed"
+  - "#202020™ #2323232#2626260#2929292#2c2c2c1 #2f2f2f<51> #323232C#353535o#383838l#3c3c3co#3f3f3fr#424242i#454545z#484848e#4b4b4bd"
+  - "#232323™ #2020202#2323230#2626262#2929291 #2c2c2c<51> #2f2f2fC#323232o#353535l#383838o#3c3c3cr#3f3f3fi#424242z#454545e#484848d"
+  - "#262626™ #2323232#2020200#2323232#2626261 #292929<51> #2c2c2cC#2f2f2fo#323232l#353535o#383838r#3c3c3ci#3f3f3fz#424242e#454545d"
+  - "#292929™ #2626262#2323230#2020202#2323231 #262626<51> #292929C#2c2c2co#2f2f2fl#323232o#353535r#383838i#3c3c3cz#3f3f3fe#424242d"
+  - "#2c2c2c™ #2929292#2626260#2323232#2020201 #232323<51> #262626C#292929o#2c2c2cl#2f2f2fo#323232r#353535i#383838z#3c3c3ce#3f3f3fd"
+  - "#2f2f2f™ #2c2c2c2#2929290#2626262#2323231 #202020<51> #232323C#262626o#292929l#2c2c2co#2f2f2fr#323232i#353535z#383838e#3c3c3cd"
+  - "#323232™ #2f2f2f2#2c2c2c0#2929292#2626261 #232323<51> #202020C#232323o#262626l#292929o#2c2c2cr#2f2f2fi#323232z#353535e#383838d"
+  - "#353535™ #3232322#2f2f2f0#2c2c2c2#2929291 #262626<51> #232323C#202020o#232323l#262626o#292929r#2c2c2ci#2f2f2fz#323232e#353535d"
+  - "#383838™ #3535352#3232320#2f2f2f2#2c2c2c1 #292929<51> #262626C#232323o#202020l#232323o#262626r#292929i#2c2c2cz#2f2f2fe#323232d"
+  - "#3c3c3c™ #3838382#3535350#3232322#2f2f2f1 #2c2c2c<51> #292929C#262626o#232323l#202020o#232323r#262626i#292929z#2c2c2ce#2f2f2fd"
+  - "#3f3f3f™ #3c3c3c2#3838380#3535352#3232321 #2f2f2f<51> #2c2c2cC#292929o#262626l#232323o#202020r#232323i#262626z#292929e#2c2c2cd"
+  - "#424242™ #3f3f3f2#3c3c3c0#3838382#3535351 #323232<51> #2f2f2fC#2c2c2co#292929l#262626o#232323r#202020i#232323z#262626e#292929d"
+  - "#454545™ #4242422#3f3f3f0#3c3c3c2#3838381 #353535<51> #323232C#2f2f2fo#2c2c2cl#292929o#262626r#232323i#202020z#232323e#262626d"
+  - "#484848™ #4545452#4242420#3f3f3f2#3c3c3c1 #383838<51> #353535C#323232o#2f2f2fl#2c2c2co#292929r#262626i#232323z#202020e#232323d"
+  - "#4b4b4b™ #4848482#4545450#4242422#3f3f3f1 #3c3c3c<51> #383838C#353535o#323232l#2f2f2fo#2c2c2cr#292929i#262626z#232323e#202020d"
+  - "#4e4e4e™ #4b4b4b2#4848480#4545452#4242421 #3f3f3f<51> #3c3c3cC#383838o#353535l#323232o#2f2f2fr#2c2c2ci#292929z#262626e#232323d"
+  - "#515151™ #4e4e4e2#4b4b4b0#4848482#4545451 #424242<51> #3f3f3fC#3c3c3co#383838l#353535o#323232r#2f2f2fi#2c2c2cz#292929e#262626d"
+  - "#545454™ #5151512#4e4e4e0#4b4b4b2#4848481 #454545<51> #424242C#3f3f3fo#3c3c3cl#383838o#353535r#323232i#2f2f2fz#2c2c2ce#292929d"

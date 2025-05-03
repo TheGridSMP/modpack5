@@ -757,10 +757,6 @@ file = "config/moreculling.toml"
 hash = "4d10f59f5b59d2f780b88d31652416cf1730594b0136f9794cce860d8ed4daf2"
 
 [[files]]
-file = "config/musicbox.common.conf"
-hash = "5b965bd4da81115164eb02bb14c614c446c2dd562556f701c2377d14945e865e"
-
-[[files]]
 file = "config/necronomicon.json5"
 hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
 
@@ -1441,11 +1437,6 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
-file = "mods/deltaboxlib.pw.toml"
-hash = "1060a801ee95d0f4a3f9f9ec16fca130a82a1a30a7027f08d2616019501e94b5"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
@@ -1988,11 +1979,6 @@ metafile = true
 [[files]]
 file = "mods/more-wizards-more-magic-series.pw.toml"
 hash = "2ef21e02b7e69c6354ee7628df469253fcae34dd84a6e2cef35107f081ea7f79"
-metafile = true
-
-[[files]]
-file = "mods/musicbox.pw.toml"
-hash = "f7bcf4cc60562d029609db82ef2c13ffd2f7bfe4b60b1604c82c30096a35f575"
 metafile = true
 
 [[files]]

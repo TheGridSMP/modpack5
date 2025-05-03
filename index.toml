@@ -1556,6 +1556,11 @@ hash = "8bdd597ced8381c52d6708f6100352dc99d7a1c6cf9a415ca8dddf2e38030a45"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "651bff2e87af8887d50ee2a13b2f2d53c2e03134cf35caba8b3734bfdef89924"
+metafile = true
+
+[[files]]
 file = "mods/eternal-attributes.pw.toml"
 hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true

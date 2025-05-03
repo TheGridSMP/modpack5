@@ -6,7 +6,7 @@ hash = "fc0bd2d39e70dfcf3d67413867f121be9d53279a4d671aa39052361c558453b5"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
-hash = "bb03664f0f47e4c3674ab32fdd7bcca1687548425627c55c7b854000424844b0"
+hash = "8e1e658c18307bc9a9835fc803825de9fb263d699de440591faf80d3f579835b"
 
 [[files]]
 file = "config/MiniMOTD/plugin_settings.conf"

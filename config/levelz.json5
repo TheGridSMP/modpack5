@@ -2,7 +2,7 @@
 	// Maximum level per skills
 	"maxLevel": 20,
 	// Maximum level: 0 = disabled
-	"overallMaxLevel": 0,
+	"overallMaxLevel": 30,
 	// In combination with overallMaxLevel, only when all skills maxed
 	"allowHigherSkillLevel": true,
 	// Applies if bonus chest world setting is enabled

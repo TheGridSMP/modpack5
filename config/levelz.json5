@@ -4,11 +4,11 @@
 	// Maximum level: 0 = disabled
 	"overallMaxLevel": 0,
 	// In combination with overallMaxLevel, only when all skills maxed
-	"allowHigherSkillLevel": false,
+	"allowHigherSkillLevel": true,
 	// Applies if bonus chest world setting is enabled
-	"startPoints": 5,
+	"startPoints": 10,
 	// Enables starter points for SERVER only
-	"enableStartPoints": false,
+	"enableStartPoints": true,
 	"pointsPerLevel": 1,
 	// If true will reset stats on death
 	"hardMode": false,

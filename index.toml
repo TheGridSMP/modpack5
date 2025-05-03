@@ -134,7 +134,7 @@ hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 
 [[files]]
 file = "config/bettercombat/server.json5"
-hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
+hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
 
 [[files]]
 file = "config/betterend/blocks.json"
@@ -262,7 +262,7 @@ hash = "174f9be686eeb112482c3b5f2cc58d1f6060357cf75f1abd730c5f80f3ae9e84"
 
 [[files]]
 file = "config/combatroll/server.json5"
-hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
+hash = "83e2ed95a95ea3e9d8c4ce8030d20de8d21841dfc9ebbdcd50a8cb694e51fe5b"
 
 [[files]]
 file = "config/continuity.json"
@@ -678,7 +678,7 @@ hash = "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
 
 [[files]]
 file = "config/levelz.json5"
-hash = "4555b981580a65780a4f8bf232e2558e183fef5f218b45fd51bc33d7463b9f0a"
+hash = "30becbcb8a612743f8782fe83ebeabcec38dd41934d56ca7fd628b2541a77e18"
 
 [[files]]
 file = "config/libz.json5"

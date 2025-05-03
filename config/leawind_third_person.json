@@ -2,7 +2,7 @@
   "is_mod_enabled": true,
   "center_offset_when_flying": true,
   "temp_first_person_in_narrow_space": true,
-  "normal_rotate_mode": "CAMERA_CROSSHAIR",
+  "normal_rotate_mode": "INTEREST_POINT",
   "auto_rotate_interacting": true,
   "do_not_rotate_when_eating": true,
   "auto_turn_body_drawing_a_bow": false,

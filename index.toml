@@ -1190,7 +1190,7 @@ hash = "cde40559536bd3d967af5e399df4c69bffc94962bd89b5072b0b2bb13f6242e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9f3c910b163d3eae899076e12d4c79a2a7e6f2a2fd0100b71d9420402842c53c"
+hash = "243c22fec7f2840382d9a2d3dc4906c6da65fe35e5fb7209f67d810bee4121bd"
 
 [[files]]
 file = "config/yungscavebiomes-fabric-1_20_1.toml"
@@ -1343,11 +1343,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
 
 [[files]]

@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","tooltrims:tooltrims","continuity:default","file/client","file/Simple Create Radios V1.2.zip","file/"EBE_1.20.x_v1.1.zip","file/qrafty's-capitalized-font.zip","file/enchant icons 1.20 v1.3.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","tooltrims:tooltrims","continuity:default","file/client","file/Simple Create Radios V1.2.zip","file/"EBE_1.20.x_v1.1.zip","file/qrafty\u0027s-capitalized-font.zip","file/enchant icons 1.20 v1.3.zip"]
+incompatibleResourcePacks:["file/qrafty\u0027s-capitalized-font.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -123,10 +123,6 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
-key_key.ait.snap:key.keyboard.unknown
-key_key.ait.increase_speed:key.keyboard.unknown
-key_key.ait.decrease_speed:key.keyboard.unknown
-key_key.ait.toggle_antigravs:key.keyboard.unknown
 key_key.antique_atlas.open:key.keyboard.m
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown

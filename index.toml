@@ -853,10 +853,6 @@ file = "config/puzzle.json"
 hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
-file = "config/realcamera.json"
-hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
-
-[[files]]
 file = "config/resourceful-config-web.json"
 hash = "cceebb581ed642ef31b2155e0390dd225ad70e162cdd25ea8baaeccdadeadab2"
 
@@ -1159,6 +1155,10 @@ hash = "c0206e4a346e3065b1f6acef4fd34e90693f43d581ad040aabdb1698a71a705f"
 [[files]]
 file = "config/yawp-region-defaults.toml"
 hash = "cde40559536bd3d967af5e399df4c69bffc94962bd89b5072b0b2bb13f6242e0"
+
+[[files]]
+file = "config/yosbr/config/realcamera.json"
+hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
 
 [[files]]
 file = "config/yosbr/options.txt"

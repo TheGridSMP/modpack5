@@ -1753,11 +1753,6 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/jade-hiteffects.pw.toml"
-hash = "a04d6c7282924a0bf67e3ac09990681f21572426a3586d447a6cd3a48fdebe29"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true

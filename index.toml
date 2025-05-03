@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MiniMOTD/icons/GRIDSMPICON_TREE.png"
+hash = "fc0bd2d39e70dfcf3d67413867f121be9d53279a4d671aa39052361c558453b5"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "bb03664f0f47e4c3674ab32fdd7bcca1687548425627c55c7b854000424844b0"
+
+[[files]]
+file = "config/MiniMOTD/plugin_settings.conf"
+hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "9bb046d86d19f20d8d75c3f17365389a1627c1d14cf6f13271ae7ff368794003"
 
@@ -211,6 +223,62 @@ hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 [[files]]
 file = "config/bluemap/core.conf"
 hash = "9ba13fd7e320baea995009a21caaec39c04a27cbba36bb6dace1afb4972a3d99"
+
+[[files]]
+file = "config/bluemap/maps/verum.conf"
+hash = "f36f08ce3117b4ce9d92db246885b07eb0666424b102717477263c74cf8ff7d7"
+
+[[files]]
+file = "config/bluemap/maps/verum_arcanuscontinuum_pocket_dimension.conf"
+hash = "31e10a4ddbaf6304107d45eafdcc6b581f1b11294a2feed378fc339ae9fb6de2"
+
+[[files]]
+file = "config/bluemap/maps/verum_dimdoors_dungeon_pockets.conf"
+hash = "2004b4877df146e67df00b08222159b24e1b7028ae2e5ce8ad754db998d7e298"
+
+[[files]]
+file = "config/bluemap/maps/verum_dimdoors_limbo.conf"
+hash = "65bac6b5535b30a8f1631e5b465a206aff6bdcf5b391f4add1457657ca90977d"
+
+[[files]]
+file = "config/bluemap/maps/verum_dimdoors_personal_pockets.conf"
+hash = "bfcbaf4bd171a689e0ab37890191baa30b57e52cbd53125cb6d64635ee5e7977"
+
+[[files]]
+file = "config/bluemap/maps/verum_dimdoors_public_pockets.conf"
+hash = "43058f78f49c9841c0e5c27a9f716e114d085c06ce596f0a25a6b948cfb9b9e3"
+
+[[files]]
+file = "config/bluemap/maps/verum_dungeonz_dungeon.conf"
+hash = "c41fea0a06a66d828fe7a9fded38e9aa45a8eecfa681ffff4893295fcac9b28e"
+
+[[files]]
+file = "config/bluemap/maps/verum_the_end.conf"
+hash = "834e7d1ffa858550a6eb63b63af2acf29255d4b579673aacbd6f98712e3e9ece"
+
+[[files]]
+file = "config/bluemap/maps/verum_the_nether.conf"
+hash = "a941e52a79d7139df0c511a121798318dce43b93677edbe9f982641835c35137"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "0cf0f5e56558995aefffab879995b04f656138e5f4d87402f206b18d4494bc64"
 
 [[files]]
 file = "config/bobby.conf"
@@ -1011,6 +1079,26 @@ hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
 [[files]]
 file = "config/surveyor.toml"
 hash = "e3e97ee4650175b5fc5d4f8c064173b5cc35dd5f4ef15962dbc360cc702cec5f"
+
+[[files]]
+file = "config/tab/animations.yml"
+hash = "b5e752a68f2690fa945ee9eeb539ab481b9251c63cbe17b6b70f823cc4cf1fc4"
+
+[[files]]
+file = "config/tab/config.yml"
+hash = "b5fbb6106c67607e5af038d267327c1ee1bfaec685427b4b7cf6cf9e38a0dd22"
+
+[[files]]
+file = "config/tab/groups.yml"
+hash = "8b2834a460c41f05f53e1c279b8a758ddb27d78ff10f49486c688d4fcaa0d996"
+
+[[files]]
+file = "config/tab/messages.yml"
+hash = "5ca51430f918b7d254aaeb483812dfb711b65da29930778710e78226d39d0a92"
+
+[[files]]
+file = "config/tab/users.yml"
+hash = "d1d155f990897a6120539a96397824b81ca4ee7068addd7508cbceacc7993eed"
 
 [[files]]
 file = "config/talk_balloons.json5"

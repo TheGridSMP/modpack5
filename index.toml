@@ -1190,7 +1190,7 @@ hash = "cde40559536bd3d967af5e399df4c69bffc94962bd89b5072b0b2bb13f6242e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9b85436065c9e62adb9b7789e11e4689188c2f0303e7eab9c888e0915b3351dd"
+hash = "9f3c910b163d3eae899076e12d4c79a2a7e6f2a2fd0100b71d9420402842c53c"
 
 [[files]]
 file = "config/yungscavebiomes-fabric-1_20_1.toml"
@@ -2583,11 +2583,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons.pw.toml"
-hash = "29a7b3eb5b9bfd6ddaa5efd808dcbe4c0eb1428b57f03cd700fcadd1c552edfb"
 metafile = true
 
 [[files]]

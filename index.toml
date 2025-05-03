@@ -1190,7 +1190,7 @@ hash = "cde40559536bd3d967af5e399df4c69bffc94962bd89b5072b0b2bb13f6242e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "243c22fec7f2840382d9a2d3dc4906c6da65fe35e5fb7209f67d810bee4121bd"
+hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
 
 [[files]]
 file = "config/yungscavebiomes-fabric-1_20_1.toml"

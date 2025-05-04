@@ -24,9 +24,9 @@
 	#10 - 12 = Early/Mid/Late Winter
 	starting_sub_season = 1
 	#The duration of a sub season in days.
-	sub_season_duration = 8
+	sub_season_duration = 10
 	#If the season should progress on a server with no players online
-	progress_season_while_offline = true
+	progress_season_while_offline = false
 	#The duration of a Minecraft day in ticks.
 	#This only adjusts the internal length of a day used by the season cycle.
 	#It is intended to be used in conjunction with another mod which adjusts the actual length of a Minecraft day.
@@ -47,13 +47,13 @@
 #birch_color is the color of birch foliage, from 0 to 0xFFFFFF(16777215). It will use the same saturation multiplier of foliage_colour
 [[season_properties]]
 	grass_saturation = -1.0
-	min_rain_time = 12000
+	min_rain_time = -1
 	grass_colour = 8877943
 	biome_temp_adjustment = 0.0
 	foliage_saturation = -1.0
 	birch_color = 10003787
 	melt_percent = 25.0
-	max_rain_time = 96000
+	max_rain_time = -1
 	season = "LATE_SUMMER"
 	melt_rolls = 1
 	max_thunder_time = 180000
@@ -155,13 +155,13 @@
 #birch_color is the color of birch foliage, from 0 to 0xFFFFFF(16777215). It will use the same saturation multiplier of foliage_colour
 [[season_properties]]
 	grass_saturation = -1.0
-	min_rain_time = 12000
+	min_rain_time = 96000
 	grass_colour = 16777215
 	biome_temp_adjustment = 0.0
 	foliage_saturation = -1.0
 	birch_color = 8431445
 	melt_percent = 25.0
-	max_rain_time = 96000
+	max_rain_time = 192000
 	season = "MID_SUMMER"
 	melt_rolls = 1
 	max_thunder_time = 180000
@@ -209,7 +209,7 @@
 #birch_color is the color of birch foliage, from 0 to 0xFFFFFF(16777215). It will use the same saturation multiplier of foliage_colour
 [[season_properties]]
 	grass_saturation = -1.0
-	min_rain_time = 12000
+	min_rain_time = 24000
 	grass_colour = 7831687
 	biome_temp_adjustment = 0.0
 	foliage_saturation = -1.0
@@ -350,7 +350,7 @@
 	foliage_saturation = 0.85
 	birch_color = 8821352
 	melt_percent = 6.25
-	max_rain_time = 96000
+	max_rain_time = 64000
 	season = "EARLY_SPRING"
 	melt_rolls = 1
 	max_thunder_time = 180000

@@ -1,0 +1,20 @@
+{
+    "nulvos": {
+        "world": "Nulvos",
+        "name": "Nulvos",
+        "map": "nulvos",
+        "type": "minecraft:overworld"
+    },
+    "vulcrum": {
+        "world": "Nulvos/DIM-1",
+        "name": "Vulcrum",
+        "map": "vulcrum",
+        "type": "minecraft:the_nether"
+    },
+    "obscura": {
+        "world": "Nulvos/DIM1",
+        "name": "Obscura",
+        "map": "obscura",
+        "type": "minecraft:the_end"
+    }
+}

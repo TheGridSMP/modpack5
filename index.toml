@@ -2284,7 +2284,7 @@ metafile = true
 
 [[files]]
 file = "mods/tabapi.pw.toml"
-hash = "acb3e7c72c980c5aeb5c8602d4ef02580279d82745fd6a70dbf6c66e80855ffd"
+hash = "1053df6cf55027f4a67be1c783663039e1b6c8597d319b5a53b40c6563098131"
 metafile = true
 
 [[files]]

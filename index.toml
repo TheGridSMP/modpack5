@@ -774,7 +774,7 @@ hash = "b69251f8411cd32703ae6d75a80dfca69807858b120294b72e151e4facb43f95"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "d19633ba45822359ea28306191e75a00e0c49aee2568a644c321f6042a9b8a66"
+hash = "4bdf15015c205c91c5de150c5f1d9c53b663da382b4326bb9844ed19ab2a1e96"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1543,6 +1543,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
 hash = "5e111fd412dda600266f7398848080dfa730ff5c0ac8ccbf81d11873ec5cde9b"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "31e5133427cbc59867a909eb2e6564143a041a13d07c96450f2c51c06788c571"
 metafile = true
 
 [[files]]

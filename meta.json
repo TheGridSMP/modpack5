@@ -21,6 +21,16 @@
             },
 			"updateType": "major"
         }
+	},
+	{
+		"id": "1.0.2",
+        "releasedAt": 1746375079813,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/gsmp5/version/1.0.2"
+            },
+			"updateType": "major"
+        }
 	}
   ]
 }

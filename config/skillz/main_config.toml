@@ -12,7 +12,7 @@ pointsPerLevel = 3
 hardMode = false
 disableMobFarms = true
 # Amount of allowed mob kills in a chunk
-mobKillCount = 6
+mobKillCount = 8
 # Strange potion resets all stats instead of one
 opStrangePotion = false
 # Restrict hand usage when item not unlocked
@@ -51,13 +51,13 @@ spawnerMobXP = false
 
 [BONUSES]
 # Bonus id: bowDamage
-bowDamageBonus = 0.5
+bowDamageBonus = 1
 # Bonus id: bowDoubleDamageChance
-bowDoubleDamageChanceBonus = 0.1
+bowDoubleDamageChanceBonus = 0.15
 # Bonus id: crossbowDamage
-crossbowDamageBonus = 0.5
+crossbowDamageBonus = 0.65
 # Bonus id: crossbowDoubleDamageChance
-crossbowDoubleDamageChanceBonus = 0.1
+crossbowDoubleDamageChanceBonus = 0.2
 # Bonus id: itemDamageChance
 itemDamageChanceBonus = 0.01
 # Bonus id: potionEffectChance
@@ -79,9 +79,9 @@ miningDropChanceBonus = 0.01
 # Bonus id: plantDropChance
 plantDropChanceBonus = 0.01
 # Bonus id: anvilXpCap
-anvilXpCap = 30
+anvilXpCap = 70
 # Bonus id: anvilXpDiscount
-anvilXpDiscountBonus = 0.01
+anvilXpDiscountBonus = 0.02
 # Bonus id: anvilXpChance
 anvilXpChanceBonus = 0.01
 # Bonus id: healthRegen
@@ -93,15 +93,15 @@ exhaustionReductionBonus = 0.02
 # Bonus id: knockbackAttackChance
 meleeKnockbackAttackChanceBonus = 0.01
 # Bonus id: meleeCriticalAttackChance
-meleeCriticalAttackChanceBonus = 0.01
+meleeCriticalAttackChanceBonus = 0.02
 # Bonus id: nonMeleeSweepingAttackChance
 nonMeleeSweepingAttackChance = 0.01
 # Bonus id: meleeCriticalAttackDamage
-meleeCriticalAttackDamageBonus = 0.3
+meleeCriticalAttackDamageBonus = 0.5
 # Bonus id: meleeDoubleAttackDamageChance
 meleeDoubleAttackDamageChanceBonus = 0.2
 # Bonus id: foodIncreasion
-foodIncreasionBonus = 0.02
+foodIncreasionBonus = 0.025
 # Bonus id: damageReflection
 damageReflectionBonus = 0.02
 # Bonus id: damageReflectionChance

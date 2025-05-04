@@ -2218,11 +2218,6 @@ hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
 metafile = true
 
 [[files]]
-file = "mods/skillz.pw.toml"
-hash = "3b5a15d7a0e90a0ca60971f27f1d425e4a0109b073a803cf4ca52c9b32087f9c"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true

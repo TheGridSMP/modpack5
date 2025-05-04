@@ -738,7 +738,7 @@ hash = "cfb35af655958e9c61fee64cde427ae051a372384290cff6cbae684a15621c9e"
 
 [[files]]
 file = "config/leawind_third_person.json"
-hash = "ecfb76bc010e189a77d8505cfc17d1521c43b359dc22e2bb4fa133160aef1f36"
+hash = "f910846bd4b60bdcfd8732831383d2e31b80a66743c3e67133048eba2bb506b2"
 
 [[files]]
 file = "config/letmedespawn.json"
@@ -746,7 +746,7 @@ hash = "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
 
 [[files]]
 file = "config/levelz.json5"
-hash = "30becbcb8a612743f8782fe83ebeabcec38dd41934d56ca7fd628b2541a77e18"
+hash = "516ef9b878aa978708e9c5e461688318a049d24a664906eea9fd0ce611a4c6fb"
 
 [[files]]
 file = "config/libz.json5"
@@ -974,7 +974,7 @@ hash = "57abe61ae49c9298df7308e57d515a8843834142f847effdaee77675c8e50ebc"
 
 [[files]]
 file = "config/shield_overhaul/shield_overhaul.json"
-hash = "6fed852c6ae33cfa5bc753a7aecf5680016f9689217faa6bdf4798b5af74d634"
+hash = "b9f2a68097f48d72912c721441dc64e4e34b347667709e79aa3e1b64464b3c57"
 
 [[files]]
 file = "config/shield_overhaul/shield_overhaul_client.json"

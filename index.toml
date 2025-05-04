@@ -1793,9 +1793,8 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/item-borders.pw.toml"
+file = "mods/item-borders.pw.toml.disabled"
 hash = "f5de86bcb2be4853227bceb5ffb593da2dcbf38d98e690dcf2f8eac008785b00"
-metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"

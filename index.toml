@@ -1676,6 +1676,11 @@ hash = "723add2251d2ebfd6eeb515c634abe0436e7c206b1253181e04e52298b486490"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
@@ -1813,6 +1818,21 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "f5de86bcb2be4853227bceb5ffb593da2dcbf38d98e690dcf2f8eac008785b00"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
+metafile = true
+
+[[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "5e0f076b72f21c779eb8046e27fcbb79372b0894ab319090c0b2d5329fbc36cf"
 metafile = true
 
 [[files]]

@@ -222,43 +222,23 @@ hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "9ba13fd7e320baea995009a21caaec39c04a27cbba36bb6dace1afb4972a3d99"
+hash = "258c51ffe9dc8a0e179b887013c35a05c16b5e8c618ca9112ee8714391d70f31"
 
 [[files]]
-file = "config/bluemap/maps/verum.conf"
-hash = "f36f08ce3117b4ce9d92db246885b07eb0666424b102717477263c74cf8ff7d7"
+file = "config/bluemap/maps.json"
+hash = "ca8b6a08a97d4a7be4b4a9a98809ce0ba030ef618c1ab1fcc21833b9ed4d3e05"
 
 [[files]]
-file = "config/bluemap/maps/verum_arcanuscontinuum_pocket_dimension.conf"
-hash = "31e10a4ddbaf6304107d45eafdcc6b581f1b11294a2feed378fc339ae9fb6de2"
+file = "config/bluemap/maps/nulvos.conf"
+hash = "a5258e68faf3430d02fecb744d07973fa6b9c8e8d29b02e97f55cf50e1c6cd8f"
 
 [[files]]
-file = "config/bluemap/maps/verum_dimdoors_dungeon_pockets.conf"
-hash = "2004b4877df146e67df00b08222159b24e1b7028ae2e5ce8ad754db998d7e298"
+file = "config/bluemap/maps/nulvos_the_end.conf"
+hash = "4d0da0d878693e9902c3954ce245bf3be06e2886be16a7c4ec5ab689fc5a5231"
 
 [[files]]
-file = "config/bluemap/maps/verum_dimdoors_limbo.conf"
-hash = "65bac6b5535b30a8f1631e5b465a206aff6bdcf5b391f4add1457657ca90977d"
-
-[[files]]
-file = "config/bluemap/maps/verum_dimdoors_personal_pockets.conf"
-hash = "bfcbaf4bd171a689e0ab37890191baa30b57e52cbd53125cb6d64635ee5e7977"
-
-[[files]]
-file = "config/bluemap/maps/verum_dimdoors_public_pockets.conf"
-hash = "43058f78f49c9841c0e5c27a9f716e114d085c06ce596f0a25a6b948cfb9b9e3"
-
-[[files]]
-file = "config/bluemap/maps/verum_dungeonz_dungeon.conf"
-hash = "c41fea0a06a66d828fe7a9fded38e9aa45a8eecfa681ffff4893295fcac9b28e"
-
-[[files]]
-file = "config/bluemap/maps/verum_the_end.conf"
-hash = "834e7d1ffa858550a6eb63b63af2acf29255d4b579673aacbd6f98712e3e9ece"
-
-[[files]]
-file = "config/bluemap/maps/verum_the_nether.conf"
-hash = "a941e52a79d7139df0c511a121798318dce43b93677edbe9f982641835c35137"
+file = "config/bluemap/maps/nulvos_the_nether.conf"
+hash = "004b5a025431d91ff2749a4a438c357016143fcfba5ee73ed36098c03efd1d0a"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
@@ -274,7 +254,7 @@ hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
 
 [[files]]
 file = "config/bluemap/webapp.conf"
-hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+hash = "0567294a749f3798609bab69f82bbcbf30de90d4708082001ebebed65c24cb91"
 
 [[files]]
 file = "config/bluemap/webserver.conf"
@@ -370,7 +350,7 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
 file = "config/damagenumbers.json"
-hash = "d7f94ba809de5ef78b74d910521a016f5943a3cd2bf6a7d32a652c116a3ecf66"
+hash = "2165ae2401aa8474cedda2dd0668bb83e59e7fcf5249786de445efb139f3ca96"
 
 [[files]]
 file = "config/death_knights/client.json5"
@@ -630,7 +610,7 @@ hash = "4e5e312a436b94bb9b6e117cc18dd2e9785bddb8e5cbe66d33abe6eebf2d9309"
 
 [[files]]
 file = "config/gravestones.json"
-hash = "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5"
+hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
 file = "config/herbalbrews.json"
@@ -906,7 +886,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
+hash = "458478657ea6852601a0d5f44a7c6cc155e53c786a50c000ac878f4922061760"
 
 [[files]]
 file = "config/projectile_damage.json"
@@ -914,7 +894,7 @@ hash = "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29"
 
 [[files]]
 file = "config/provihealth.json"
-hash = "eb7d666464084e186fa42e0d1354bc286895a5c57b70be9af03a98ef639072d6"
+hash = "ebdf2ec2ef94382c2ce9ff35e58f25c916c2a6fe64aa0fb32e445edfa388b188"
 
 [[files]]
 file = "config/puzzle.json"
@@ -950,7 +930,7 @@ hash = "c086a95290ee95f81246a01b3925818e753e7e3020aae769780177d2d4f3ee49"
 
 [[files]]
 file = "config/rpgdifficulty.json"
-hash = "9736c2baf59da2186b0849d58da7ae7bb7abbc7b1ce2f976dc78c779f325ef19"
+hash = "3a3876153d34e25ed235ef1176502c6441e530c0b3d5a41e4d5ca727250b45e6"
 
 [[files]]
 file = "config/rptweaks.properties"
@@ -966,11 +946,11 @@ hash = "1847058a90a5569d88a317db21fdd0e05ee7f1e1eb74d9c57885656890723c61"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
-hash = "f63f94b985285add146c73a8747d278cec3d386807855b25de0e1db9962c153f"
+hash = "58cbdcfa94060c9d741b7e783dd1af8167fc3bd42e31d1ee6997e86a4671265d"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "57abe61ae49c9298df7308e57d515a8843834142f847effdaee77675c8e50ebc"
+hash = "561c00a15518bb6a0e66ea98956007399e1defdf6d7f87c7a20803d7679f57d9"
 
 [[files]]
 file = "config/shield_overhaul/shield_overhaul.json"
@@ -1070,7 +1050,7 @@ hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
+hash = "517c88cb7563d46d3a13df558b71abb8f18f41ab1f4a3f78b4ed3b2daef0c846"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -2303,6 +2283,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]

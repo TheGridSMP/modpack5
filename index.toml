@@ -685,10 +685,6 @@ file = "config/jewelry/villages.json"
 hash = "3a0ad1c6bf844e60952867bbb67ebac157ce720a9904362b4a26d6048096a5f8"
 
 [[files]]
-file = "config/jobsaddon.json5"
-hash = "ec8e3febc8d3c4880d6a91537ebfe15e29ec0d91cd26296032c2aff50b077c87"
-
-[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 

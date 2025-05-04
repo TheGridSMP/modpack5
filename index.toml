@@ -725,10 +725,6 @@ file = "config/letmedespawn.json"
 hash = "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
 
 [[files]]
-file = "config/levelz.json5"
-hash = "516ef9b878aa978708e9c5e461688318a049d24a664906eea9fd0ce611a4c6fb"
-
-[[files]]
 file = "config/libz.json5"
 hash = "ff49be40555a0fdb1d2dc0d27fbd3cf3701171f9a0074313619b681b37866783"
 
@@ -1251,11 +1247,6 @@ hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
 
 [[files]]
-file = "mods/additional-jewelryz.pw.toml"
-hash = "e5706f9992b9d41fc1e43d41d44ba3fad8f4ae0006dc5d5d79fafe310ecf2366"
-metafile = true
-
-[[files]]
 file = "mods/additional-rpg-jewelry.pw.toml"
 hash = "808b076f1fe1b2dd7289689e4ec50c32d2da668cdbf240809ef41eebe8a6be47"
 metafile = true
@@ -1316,11 +1307,6 @@ hash = "f86ba6585c026d2f1ad11ad0de9cd08707e96d2e3211e23f6e330095f37f4b8f"
 metafile = true
 
 [[files]]
-file = "mods/archerz_.pw.toml"
-hash = "add57e4d4844006ea7ff3964f6cf57010ff110590f1776b43d73735969b47d1c"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -1328,6 +1314,11 @@ metafile = true
 [[files]]
 file = "mods/arrp.pw.toml"
 hash = "6a3c8dc042cb38689a43cb3820d2aea344cc09e80b5c694ca834ce8dccea44e2"
+metafile = true
+
+[[files]]
+file = "mods/attribute-backport.pw.toml"
+hash = "71e4a76a94b20b8ff2e59713acd749092f3dccaaa883cf7bc9f0bd0105c0aac9"
 metafile = true
 
 [[files]]
@@ -1353,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/berserker-rpg-class.pw.toml"
 hash = "df247f6b6cb20f8d16f73b7aa29f7198a314963e399e2b0b7bbc4cc2508869b7"
-metafile = true
-
-[[files]]
-file = "mods/berserker_z.pw.toml"
-hash = "5c91df7ef5098cc364482a73430cd932138ea255ad51c0dd27a0b93d658f2aea"
 metafile = true
 
 [[files]]
@@ -1571,11 +1557,6 @@ hash = "505261e4c1865768c54185281f17b1a8683bf81a0655ebddbeaf0fc360e45051"
 metafile = true
 
 [[files]]
-file = "mods/elemental-wizardz.pw.toml"
-hash = "e047e97d45705cbefff43f420bcc716d927cb8df6541e0aab2f5862b7e7d1a48"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "ce52bbcb7eedb076cac9ebed5ad8b2f6dd6fe735309f2d70702f880ee68b184c"
 metafile = true
@@ -1641,11 +1622,6 @@ hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delightz.pw.toml"
-hash = "5ab294db22b1af6ffc6a69ba0a084de50f7c4ded37e1a1fa1768ba1ece34945d"
-metafile = true
-
-[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
@@ -1673,11 +1649,6 @@ metafile = true
 [[files]]
 file = "mods/forcemaster-rpg-class.pw.toml"
 hash = "4bb5aac160a685129ba50ce39de4c8f643f17619b7d4c06bc14b8ed500401411"
-metafile = true
-
-[[files]]
-file = "mods/forcemaster_z.pw.toml"
-hash = "723add2251d2ebfd6eeb515c634abe0436e7c206b1253181e04e52298b486490"
 metafile = true
 
 [[files]]
@@ -1851,16 +1822,6 @@ hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
 
 [[files]]
-file = "mods/jewelryz.pw.toml"
-hash = "afba0b54099b225f71c28a976e44ca4204f57bbec61b2cb06f2c0c04476db7b6"
-metafile = true
-
-[[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "604d75509e4842f32fa3664eeabefd7059a54aba5f595cd381627f00fb3a0686"
-metafile = true
-
-[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
@@ -1911,11 +1872,6 @@ hash = "e184bea6c376d34b3df9271852bd0bd424f6dbe1f8d64832d4a5ac8c28e2d4f1"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-compat-levelz.pw.toml"
-hash = "ce38da05d43385a47c7339cf2bbbe5facc4b03afa3b0b4b5a5b11e34a405d0e0"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "ab43867954375dfa066d8986b63b7458219718f4078eee60cdf8fbe38f86db48"
 metafile = true
@@ -1933,11 +1889,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "1082747346df30fd1169a9396e681ea54e47508339267255acdeb624bd884b68"
 metafile = true
 
 [[files]]
@@ -1968,26 +1919,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
-metafile = true
-
-[[files]]
-file = "mods/lvlz-archers-expansion.pw.toml"
-hash = "1b87ded793f422047cebe254ecce4527c1c30c37ff1deca1a6887ec649c6ff17"
-metafile = true
-
-[[files]]
-file = "mods/lvlz-better-end.pw.toml"
-hash = "2b88fe027b23bfcc86a1b3307ab67ba1cdb285d47bc17cab7e55fdd196a5079a"
-metafile = true
-
-[[files]]
-file = "mods/lvlz-better-nether.pw.toml"
-hash = "189bacd2d944f485d794e2ce5f5b4e6bf2eaeab88f3a0cad434cf73eb6aaeeae"
-metafile = true
-
-[[files]]
-file = "mods/lvlz-death-knights.pw.toml"
-hash = "b2918f476a7b30f0bda6519dc433da1f1c3d7f8b9e8f7f745aad2a513d1cd948"
 metafile = true
 
 [[files]]
@@ -2126,11 +2057,6 @@ hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
 metafile = true
 
 [[files]]
-file = "mods/paladinz_and_priestz.pw.toml"
-hash = "bff95c792948fbb8544a4626affd46cfec8770be79247441f36a17ecab1db7ab"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "8d6be021a4ecb4e7f97cbfd8deaad7524ff48a5af634247922ad63bd23555b14"
 metafile = true
@@ -2236,11 +2162,6 @@ hash = "eb0f42ccd89fea2e97f49ac596c719dd22d62e6525e7f0ae7ac5ce7f637da862"
 metafile = true
 
 [[files]]
-file = "mods/roguez-and-warriorz.pw.toml"
-hash = "bd6893f2b170178eeb874397bc3011adbc6337f10bf79dd8a83e9ff9cae0b972"
-metafile = true
-
-[[files]]
 file = "mods/rpgdifficulty.pw.toml"
 hash = "e8943eaf4c1b025766ec5af7d068ac1e6c3b533ea19cee7eed11aad89d1eef0a"
 metafile = true
@@ -2301,6 +2222,11 @@ hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
 metafile = true
 
 [[files]]
+file = "mods/skillz.pw.toml"
+hash = "3b5a15d7a0e90a0ca60971f27f1d425e4a0109b073a803cf4ca52c9b32087f9c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -2358,6 +2284,11 @@ metafile = true
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "b592f1060c39b5684047a0525018dcdff560b0a6de246b6ea3b5d38a954b778e"
+metafile = true
+
+[[files]]
+file = "mods/tabapi.pw.toml"
+hash = "acb3e7c72c980c5aeb5c8602d4ef02580279d82745fd6a70dbf6c66e80855ffd"
 metafile = true
 
 [[files]]
@@ -2471,18 +2402,8 @@ hash = "c7502387bf065fad7a8cef5cc00ebe392c143f07c6034e98d1b9c27c517d47ca"
 metafile = true
 
 [[files]]
-file = "mods/witcherz.pw.toml"
-hash = "e93027eeb2c3342cbaa668762f458fee1355312ceb651c4ee22d9c0c9d4d1010"
-metafile = true
-
-[[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
-metafile = true
-
-[[files]]
-file = "mods/wizardz.pw.toml"
-hash = "f5d3c53f89513fb23e0072847ac7345807db96271fd1e2a6ebff9b4bbbf2e7af"
 metafile = true
 
 [[files]]

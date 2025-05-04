@@ -1,0 +1,16 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+# Hide reached levels in tooltips
+hideReachedLevels = true
+# How locked blocks should appear highlighted
+highlightOption = "NORMAL"
+inventorySkillLevel = true
+inventorySkillLevelPosX = 0
+inventorySkillLevelPosY = 0
+showLevelList = true
+showLevel = true
+# Inventory key goes back to main screen rather than closing the inventory
+switchScreen = false
+showLockedBlockInfo = false
+lockedBlockInfoPosX = 0
+lockedBlockInfoPosY = 0

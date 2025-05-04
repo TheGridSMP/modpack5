@@ -1,6 +1,6 @@
 name = "TabAPI"
 filename = "tabapi-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/561gHy1d/versions/8ibkRodf/tabapi-1.1.2.jar"

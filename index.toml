@@ -425,6 +425,18 @@ file = "config/dimdoors-config.json5"
 hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
+file = "config/discord-mc-chat-backup.json"
+hash = "ed4352d354fda9d5f2b5c6f4143ba7141f8d7f6d4d8a3903c7e885bf649528cb"
+
+[[files]]
+file = "config/discord-mc-chat.json"
+hash = "3a69f6541756b6703c1f3008dc79bc3f33dd9293e12cf707e58f8e4a47cac097"
+
+[[files]]
+file = "config/discord-mc-chat/1.20.1-en_us.json"
+hash = "71be3181221b2d95a8cfe3a2fcf01fec085e4478935929e489c72aec79ea499e"
+
+[[files]]
 file = "config/dungeonz.json5"
 hash = "6ab2cbe3d47549afcd3a0d697e237929545bd96824573fa602773d749c47c4a3"
 
@@ -981,14 +993,6 @@ file = "config/sit!/sitting-config.json"
 hash = "a8002c8a6799e31f3a911ba332ad954ec235fabcdfa7efb9cb61a73efbc842d5"
 
 [[files]]
-file = "config/skillz/client_config.toml"
-hash = "319e6ff3583690f281d99991876f49869288fcaacec8c7b0a8090c4f26f63b34"
-
-[[files]]
-file = "config/skillz/main_config.toml"
-hash = "f16fda5350ef974fda5e0173dd33cdfb245986aa96508551b178fde48a2d7872"
-
-[[files]]
 file = "config/skinlayers.json"
 hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
 
@@ -1051,6 +1055,10 @@ hash = "d52dbe783b3c4be9825c78015cdbb1bb1eccb23ae831aba5c3f520adfe20636e"
 [[files]]
 file = "config/spell_power/enchantments.json"
 hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
+
+[[files]]
+file = "config/staffsentinel.json"
+hash = "6de7534be3e68a6f85f5721269856be4d4c11429af4c7853bf34d6e285c6fa19"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -1233,6 +1241,14 @@ file = "config/yosbr/config/realcamera.json"
 hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
 
 [[files]]
+file = "config/yosbr/config/skillz/client_config.toml"
+hash = "319e6ff3583690f281d99991876f49869288fcaacec8c7b0a8090c4f26f63b34"
+
+[[files]]
+file = "config/yosbr/config/skillz/main_config.toml"
+hash = "f16fda5350ef974fda5e0173dd33cdfb245986aa96508551b178fde48a2d7872"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
 
@@ -1248,6 +1264,14 @@ hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 file = "mods/3dskinlayers.pw.toml"
 hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
+
+[[files]]
+file = "mods/Discord-MC-Chat-2.4.1.jar"
+hash = "a6add54bd80ffdb89a965affdcb5ba35699824c2be44481688c0d1e5b1d6f6f7"
+
+[[files]]
+file = "mods/Staff-Sentinel-Chat-2.0.10.jar"
+hash = "04eadfadc56f884b4f74201310ca43fd85961810ea35dfa939bf0f4def255e54"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -1805,15 +1829,6 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/item-borders.pw.toml"
-hash = "f5de86bcb2be4853227bceb5ffb593da2dcbf38d98e690dcf2f8eac008785b00"
-metafile = true
-
-[[files]]
-file = "mods/item-borders.pw.toml.disabled"
-hash = "f5de86bcb2be4853227bceb5ffb593da2dcbf38d98e690dcf2f8eac008785b00"
-
-[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
 metafile = true
@@ -2231,11 +2246,6 @@ metafile = true
 [[files]]
 file = "mods/sit!.pw.toml"
 hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
-metafile = true
-
-[[files]]
-file = "mods/skillz.pw.toml"
-hash = "3b5a15d7a0e90a0ca60971f27f1d425e4a0109b073a803cf4ca52c9b32087f9c"
 metafile = true
 
 [[files]]

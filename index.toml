@@ -2246,8 +2246,8 @@ hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
 metafile = true
 
 [[files]]
-file = "mods/skillz-2.0.1.jar"
-hash = "a9434150b65d7cf960f5e21fcce53e5ffbe01c78ffa0307317e25b51bbbdaecb"
+file = "mods/skillz-2.0.1-gsmp.1.jar"
+hash = "8df24794536279614a4e60db39fbac1f72e67f06df88c239caaa5ae4473880b6"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"

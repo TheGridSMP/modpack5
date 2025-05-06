@@ -2117,7 +2117,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
+hash = "2a1f157f8e81bab45e1409d851656a9624086509aa3d8c44388234b9e8b4694f"
 metafile = true
 
 [[files]]
@@ -2412,11 +2412,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "3d9269ee3abd9c59ea81890ce33b59c9caa903cab2e90854f1e414223956a81e"
 metafile = true
 
 [[files]]

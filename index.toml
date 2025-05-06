@@ -1516,6 +1516,11 @@ hash = "ff67a979c96bae58f0be114761924df7a73e94c03b6db28d24e08a0531bae837"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "d9778545b64403309a610324c4f0ca1c993e1130d516fa6ba54279334005d32d"
+metafile = true
+
+[[files]]
 file = "mods/dungeons+-more-spawners.pw.toml"
 hash = "564530e87011f62b739571e48cb51b415b364c684da47a72be61f8c32015176a"
 metafile = true
@@ -1941,6 +1946,11 @@ hash = "b42622e3f22f315c30d843e874a2d91d9379ceb5e19861c5393552ecacc42753"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
@@ -2098,6 +2108,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
 metafile = true
 
 [[files]]

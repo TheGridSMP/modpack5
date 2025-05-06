@@ -1266,14 +1266,6 @@ hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
-file = "mods/Discord-MC-Chat-2.4.1.jar"
-hash = "a6add54bd80ffdb89a965affdcb5ba35699824c2be44481688c0d1e5b1d6f6f7"
-
-[[files]]
-file = "mods/Staff-Sentinel-Chat-2.0.10.jar"
-hash = "04eadfadc56f884b4f74201310ca43fd85961810ea35dfa939bf0f4def255e54"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
@@ -1511,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
 metafile = true
 
 [[files]]
@@ -2249,6 +2246,10 @@ hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
 metafile = true
 
 [[files]]
+file = "mods/skillz-2.0.1.jar"
+hash = "a9434150b65d7cf960f5e21fcce53e5ffbe01c78ffa0307317e25b51bbbdaecb"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -2276,6 +2277,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
+file = "mods/staff-sentinel.pw.toml"
+hash = "1e73cf70555fe625e31e5d692948f5bb5ca10788e7d0219f2ea6790dcf9ab9d8"
 metafile = true
 
 [[files]]
@@ -2310,7 +2316,7 @@ metafile = true
 
 [[files]]
 file = "mods/tabapi.pw.toml"
-hash = "acb3e7c72c980c5aeb5c8602d4ef02580279d82745fd6a70dbf6c66e80855ffd"
+hash = "1053df6cf55027f4a67be1c783663039e1b6c8597d319b5a53b40c6563098131"
 metafile = true
 
 [[files]]

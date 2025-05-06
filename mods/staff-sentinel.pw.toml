@@ -1,0 +1,13 @@
+name = "Staff Sentinel"
+filename = "Staff-Sentinel-Chat-2.0.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bAlKjqz/versions/kP7gAOQz/Staff-Sentinel-Chat-2.0.10.jar"
+hash-format = "sha512"
+hash = "eabaa067f754f113af4027ca33799e4c76d702b172eb64084789771534d68d884909bf6e0879c07cdfa2e23e68139bd9d2d3c8ab1237143e7f598c8daec65b9a"
+
+[update]
+[update.modrinth]
+mod-id = "8bAlKjqz"
+version = "kP7gAOQz"

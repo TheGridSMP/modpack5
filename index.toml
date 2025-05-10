@@ -1714,7 +1714,7 @@ metafile = true
 
 [[files]]
 file = "mods/gridscouters-1.0-SNAPSHOT.jar"
-hash = "0e36c6caf792abba674ff905ca23ebb1d2684c64ffae1f4554eca5685413a748"
+hash = "bbde347d30f2eaf3b0d69d012bce86850e78c00da35058dd5f5b54164eaf73fd"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -2273,7 +2273,7 @@ metafile = true
 
 [[files]]
 file = "mods/skillz-2.0.1-gsmp.1.jar"
-hash = "fad4689f1aa935783a2364d63968ce96c7af115fa16e502372b67789a125628b"
+hash = "daabc9a7794b45f097111f55e05abe0d4f34dab60fbf7f9cb0d66592ab6810ca"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"

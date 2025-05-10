@@ -1714,7 +1714,7 @@ metafile = true
 
 [[files]]
 file = "mods/gridscouters-1.0-SNAPSHOT.jar"
-hash = "39bb54dbf75b22f043a5848878fb5f9f2fe5556b7e1121a08190211cb57847e6"
+hash = "679a0862b734d8ae136b63a78440d97981e1e5e716b8d67b37ac9e623bc9b90c"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"

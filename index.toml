@@ -2026,11 +2026,6 @@ hash = "2ef21e02b7e69c6354ee7628df469253fcae34dd84a6e2cef35107f081ea7f79"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
-metafile = true
-
-[[files]]
 file = "mods/nameplate.pw.toml"
 hash = "601e67d297944d0b36ca95f7d8362f3fefd50d38818de2872a7de511bd205991"
 metafile = true

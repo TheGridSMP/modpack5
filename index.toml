@@ -682,7 +682,7 @@ hash = "98ceda199afc9e62457938be8ce282e7c466410f04f18cf7516d1b598c09d814"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "2cecadba4a5bf41ca142198050868ab9efd4c8931b49eccd912c5b899a87a65e"
+hash = "4983cc576379c887dfaafd49df0ef02e1e9d96822a3aaed39f4a007918deccc1"
 
 [[files]]
 file = "config/jewelry/items_v4.json"

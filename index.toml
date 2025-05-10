@@ -898,7 +898,7 @@ hash = "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29"
 
 [[files]]
 file = "config/provihealth.json"
-hash = "ebdf2ec2ef94382c2ce9ff35e58f25c916c2a6fe64aa0fb32e445edfa388b188"
+hash = "27bab128c37d341fc9422612c361fb18e47f3aca73ebc5d190f4a4dc5b2094d9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -1616,11 +1616,6 @@ hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
-file = "mods/environmentz.pw.toml"
-hash = "8bdd597ced8381c52d6708f6100352dc99d7a1c6cf9a415ca8dddf2e38030a45"
-metafile = true
-
-[[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "651bff2e87af8887d50ee2a13b2f2d53c2e03134cf35caba8b3734bfdef89924"
 metafile = true
@@ -1881,6 +1876,11 @@ hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "b30cbfaef28f8ecc9223de405a6fb9760df60235cce6466bcc71f4609d07cd25"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
 metafile = true
@@ -2018,6 +2018,11 @@ metafile = true
 [[files]]
 file = "mods/more-wizards-more-magic-series.pw.toml"
 hash = "2ef21e02b7e69c6354ee7628df469253fcae34dd84a6e2cef35107f081ea7f79"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
@@ -2387,6 +2392,11 @@ metafile = true
 [[files]]
 file = "mods/tooltip-scrolling.pw.toml"
 hash = "d8306df585ebd2e05c2902860997d3352b039593d7b46012b5e9a2665fbb8c06"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "a4acd311571559c158dcb90e8030289bf89942ede6efbba38f4f6096e2d2563d"
 metafile = true
 
 [[files]]

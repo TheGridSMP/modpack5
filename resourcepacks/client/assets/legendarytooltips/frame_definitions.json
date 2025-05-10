@@ -43,7 +43,7 @@
 			"endColor": "#FF7D8A91",
 			"bgStartColor": "#F07D8A91-v125+s35",
 			"bgEndColor": "#F47D8A91-v100+s55",
-			"selectors": ["@forcemaster_rpg","numismatics:sprocket"]
+			"selectors": ["@forcemaster_rpg","numismatics:sprocket","gridscouters:scouter"]
 		},
 		// 8.  Purple geometric motif
 		{

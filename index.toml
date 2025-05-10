@@ -901,10 +901,6 @@ file = "config/puzzle.json"
 hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
-file = "config/realcamera.json"
-hash = "c0b31c2e2b2b54e652580d671ad7e1701934104b7aa73028fba1ff6344b5c38e"
-
-[[files]]
 file = "config/resourceful-config-web.json"
 hash = "cceebb581ed642ef31b2155e0390dd225ad70e162cdd25ea8baaeccdadeadab2"
 

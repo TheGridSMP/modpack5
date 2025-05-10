@@ -2521,6 +2521,10 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
+file = "resourcepacks/client/assets/legendarytooltips/frame_definitions.json"
+hash = "8f28f725f4f330826aad23af10635d466cb857fc337dda63b6fd91e7ba234a2e"
+
+[[files]]
 file = "resourcepacks/client/assets/minecraft/models/block/fire_floor1.json"
 hash = "b85c603eb73b1cbe355879fabb918f7c270027025ab2dc0c183c99e45fc179e9"
 

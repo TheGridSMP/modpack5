@@ -2031,6 +2031,11 @@ hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
+file = "mods/nameplate.pw.toml"
+hash = "601e67d297944d0b36ca95f7d8362f3fefd50d38818de2872a7de511bd205991"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true

@@ -1130,7 +1130,7 @@ hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "3c3a2fca564353cf5639b1448490e8179167efff7241c8da808e58b8df7aca8e"
+hash = "fe5c13efbce80361ef13f3ad37b68add6c2183b01b860e9c9163649239c2f2ca"
 
 [[files]]
 file = "config/weaponleveling.json"

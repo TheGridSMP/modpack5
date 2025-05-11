@@ -954,7 +954,7 @@ hash = "319e6ff3583690f281d99991876f49869288fcaacec8c7b0a8090c4f26f63b34"
 
 [[files]]
 file = "config/skillz/main_config.toml"
-hash = "feeb27a2378e6f2cd0637c2f319eb20d5f6d10c50106b52a95204469a1a3e2f2"
+hash = "6228d08dda324c40eda14117c1d1df2495d08a6e4804bed0ff4804f26dbd2f20"
 
 [[files]]
 file = "config/skinlayers.json"

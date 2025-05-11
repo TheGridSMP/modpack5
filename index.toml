@@ -949,6 +949,14 @@ file = "config/sit!/sitting-config.json"
 hash = "a8002c8a6799e31f3a911ba332ad954ec235fabcdfa7efb9cb61a73efbc842d5"
 
 [[files]]
+file = "config/skillz/client_config.toml"
+hash = "319e6ff3583690f281d99991876f49869288fcaacec8c7b0a8090c4f26f63b34"
+
+[[files]]
+file = "config/skillz/main_config.toml"
+hash = "feeb27a2378e6f2cd0637c2f319eb20d5f6d10c50106b52a95204469a1a3e2f2"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
 

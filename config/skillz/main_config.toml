@@ -24,7 +24,7 @@ devMode = false
 
 [PROGRESSION]
 restrictions = true
-defaultRestrictions = true
+defaultRestrictions = false
 # Remember to name your datapack json differently than default
 defaultSkills = false
 

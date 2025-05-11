@@ -42,7 +42,7 @@ hash = "be07414094e13aaf48758d0132dd25fa0fdf9aabb30f7fefc4797eff7fb13953"
 
 [[files]]
 file = "config/additionz.json5"
-hash = "e7905cce4ec5840c5378eeee252c40509cd3b2aa700ed90bf9b29af5e9f245ee"
+hash = "48d8b2f15f00a4a37ac169d62e86932d2c27998d4c75cfdc7f41ae7fab2286b6"
 
 [[files]]
 file = "config/advancementinfo.json5"

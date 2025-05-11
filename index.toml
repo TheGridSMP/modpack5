@@ -221,46 +221,6 @@ file = "config/betternether/mobs.json"
 hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 
 [[files]]
-file = "config/bluemap/core.conf"
-hash = "258c51ffe9dc8a0e179b887013c35a05c16b5e8c618ca9112ee8714391d70f31"
-
-[[files]]
-file = "config/bluemap/maps.json"
-hash = "ca8b6a08a97d4a7be4b4a9a98809ce0ba030ef618c1ab1fcc21833b9ed4d3e05"
-
-[[files]]
-file = "config/bluemap/maps/nulvos.conf"
-hash = "a5258e68faf3430d02fecb744d07973fa6b9c8e8d29b02e97f55cf50e1c6cd8f"
-
-[[files]]
-file = "config/bluemap/maps/nulvos_the_end.conf"
-hash = "4d0da0d878693e9902c3954ce245bf3be06e2886be16a7c4ec5ab689fc5a5231"
-
-[[files]]
-file = "config/bluemap/maps/nulvos_the_nether.conf"
-hash = "004b5a025431d91ff2749a4a438c357016143fcfba5ee73ed36098c03efd1d0a"
-
-[[files]]
-file = "config/bluemap/plugin.conf"
-hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
-
-[[files]]
-file = "config/bluemap/storages/file.conf"
-hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
-
-[[files]]
-file = "config/bluemap/storages/sql.conf"
-hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
-
-[[files]]
-file = "config/bluemap/webapp.conf"
-hash = "0567294a749f3798609bab69f82bbcbf30de90d4708082001ebebed65c24cb91"
-
-[[files]]
-file = "config/bluemap/webserver.conf"
-hash = "0cf0f5e56558995aefffab879995b04f656138e5f4d87402f206b18d4494bc64"
-
-[[files]]
 file = "config/bobby.conf"
 hash = "10e6bb5376f954ab7c87f7618e643c6bc08898494120f305aed295ed36f54eee"
 
@@ -1375,11 +1335,6 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]

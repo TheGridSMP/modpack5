@@ -6,7 +6,7 @@
     "botPlayingActivity": "[The Grid SMP](%onlinePlayerCount%/%maxPlayerCount%)",
     "botListeningActivity": "[Scanning The GSMP]",
     "useWebhook": true,
-    "channelId": "873329036133285909",
+    "channelId": "1037684443579686931",
     "consoleLogChannelId": "883844579911155742",
     "updateNotificationChannelId": "1099234528553340968",
     "avatarApi": "https://mc-heads.net/avatar/{player_uuid}.png",

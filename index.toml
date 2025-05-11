@@ -386,7 +386,7 @@ hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
 file = "config/discord-mc-chat.json"
-hash = "3a69f6541756b6703c1f3008dc79bc3f33dd9293e12cf707e58f8e4a47cac097"
+hash = "12bc42d23ef8842662fd559ced7511dd6b398e32ae957578f2aa15cd16603fe0"
 
 [[files]]
 file = "config/discord-mc-chat/1.20.1-en_us.json"
@@ -683,6 +683,10 @@ hash = "cfb35af655958e9c61fee64cde427ae051a372384290cff6cbae684a15621c9e"
 [[files]]
 file = "config/leawind_third_person.json"
 hash = "f910846bd4b60bdcfd8732831383d2e31b80a66743c3e67133048eba2bb506b2"
+
+[[files]]
+file = "config/ledger.toml"
+hash = "6954d2a50ca922bda2b0e4e73eb4202f5061ac38103c80c7a61109e534d977f3"
 
 [[files]]
 file = "config/letmedespawn.json"

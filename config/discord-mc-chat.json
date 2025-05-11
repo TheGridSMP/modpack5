@@ -70,11 +70,11 @@
     "advancementTask": "",
     "advancementGoal": "",
     "advancementChallenge": "%name% has made the advancement %achievement%!",
-    "highMspt": ":navi: HEY! %guildowner%, the server room is on :NANI::firecube::menacing2:",
+    "highMspt": "HEY!, the server room smells funny!!",
     "offlineChannelTopic": "Warming %name% - GSMP in Standby!",
     "onlineChannelTopic": "Welcome %name% to The Grid SMP!",
     "onlineChannelTopicForMultiServer": ""
   },
   "latestVersion": "2.4.1",
-  "latestCheckTime": 0
+  "latestCheckTime": 1746952008893
 }

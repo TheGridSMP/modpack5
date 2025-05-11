@@ -11,5 +11,7 @@
   "skill.skillz.smithing": "Forging",
   "skill.skillz.farming": "Farming",
   "skill.skillz.cooking": "Cooking",
-  "skill.skillz.bartering": "Bartering"
+  "skill.skillz.bartering": "Bartering",
+  
+  "text.skillz.gui.points": "♮ Notes %d"
 }

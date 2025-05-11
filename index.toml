@@ -386,7 +386,7 @@ hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
 file = "config/discord-mc-chat.json"
-hash = "ff0adad61fe1623f8937cd751ebf2aef5baa1d89af9283d9f76cfe6f1e80aa99"
+hash = "2d1dc8c98654d443880ae1205df29c00277502aa94287d51b42a9f9758d7eb85"
 
 [[files]]
 file = "config/discord-mc-chat/1.20.1-en_us.json"

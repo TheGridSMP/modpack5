@@ -2492,6 +2492,10 @@ file = "resourcepacks/client/assets/legendarytooltips/frame_definitions.json"
 hash = "1b0c99ca55b46ad3675e769cd906093dd6ee3a82617478231c0a68f0bf82521e"
 
 [[files]]
+file = "resourcepacks/client/assets/minecraft/lang/en_us.json"
+hash = "092658ec66862f300e7cb90608f0ec30cb97326fe06d21c0a1f2b234e04dd473"
+
+[[files]]
 file = "resourcepacks/client/assets/minecraft/models/block/fire_floor1.json"
 hash = "b85c603eb73b1cbe355879fabb918f7c270027025ab2dc0c183c99e45fc179e9"
 

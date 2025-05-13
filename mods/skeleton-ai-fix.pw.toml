@@ -1,0 +1,13 @@
+name = "Skeleton AI Fix"
+filename = "SkeletonAIFix-v20.1.0-1.20.1-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn24bUJo/versions/WhNVtI0m/SkeletonAIFix-v20.1.0-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "3a70ffd158a911c982be3f7831468096d44487be01a381e670cad1df475d6221abdd8c99bbe0fdfe5e11130417b167080bfecccee8c23bd4c41edca177f7f504"
+
+[update]
+[update.modrinth]
+mod-id = "jn24bUJo"
+version = "WhNVtI0m"

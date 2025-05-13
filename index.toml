@@ -1435,6 +1435,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-numismatic-bounties.pw.toml"
+hash = "0026ca5383b07be7e6dd54e6feb19ac4067e83c005537d827fb8195020dd7729"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "1eb94c241ed2d519e5bde972b0a7966041684d75cbfc724c3ec55227830316a1"
 metafile = true
@@ -1746,6 +1751,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "586639e23263dd1ff640f2c46317f9a7aa8d1caa3492af9ac7349172e7c2bd2e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "2fb0798e4d70c668e760adc47e55ad2e913d06764e072b00611e611fd1ba52cd"
 metafile = true
 
 [[files]]
@@ -2099,6 +2109,11 @@ hash = "2a1f157f8e81bab45e1409d851656a9624086509aa3d8c44388234b9e8b4694f"
 metafile = true
 
 [[files]]
+file = "mods/pocket-repose.pw.toml"
+hash = "e986b22b8ce2d1b88a0ccd0c9f89c7df401f2cf0fb48c5781a01cd22d2cd8052"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
@@ -2241,6 +2256,11 @@ metafile = true
 [[files]]
 file = "mods/sit!.pw.toml"
 hash = "29d5fa3cc1aa3485b434cc8b80bb77d3774296aeaf238d006c798e194a575d47"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-ai-fix.pw.toml"
+hash = "5213099d58b0ccd577c951be2680c248bf0c963f86740b00ff66e9ab83b7e2e8"
 metafile = true
 
 [[files]]

@@ -2372,6 +2372,16 @@ hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
 metafile = true
 
 [[files]]
+file = "mods/the-ancient-trinkets-index.pw.toml"
+hash = "cbcf13e79257b5645ada00bc279e45880611736bc4f2b63a3c78a7e62c525236"
+metafile = true
+
+[[files]]
+file = "mods/the-cursed-trinkets-index-more-magic-series.pw.toml"
+hash = "b27b58e80ec46717650533f3c23009150f772439e8b6e76025488e29acefb102"
+metafile = true
+
+[[files]]
 file = "mods/tick-stasis.pw.toml"
 hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
 metafile = true
@@ -2419,6 +2429,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-refabricated.pw.toml"
+hash = "cdcd8b1b9f62eea4f46ed5bc3a58125ae5ae2ceb1854739666eeacffda6fabc7"
 metafile = true
 
 [[files]]
